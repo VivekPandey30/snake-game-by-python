@@ -1,2 +1,2 @@
 # snake-game-by-python
-# hi
+# hello python bignners
